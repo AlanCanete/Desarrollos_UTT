@@ -1,7 +1,7 @@
 # Ignorar archivos temporaes
 *.log
 *.tmp
-
+*.pkg
 # Ignorar carpeta especifica
 /WATTS/build/
 # Ignorar archivos de configuración local
