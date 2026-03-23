@@ -1,0 +1,11 @@
+# Ignorar archivos temporaes
+*.log
+*.tmp
+
+# Ignorar carpeta especifica
+/WATTS/build/
+# Ignorar archivos de configuración local
+
+.env
+.DS_ Store
+
